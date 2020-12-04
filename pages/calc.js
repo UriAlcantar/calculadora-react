@@ -6,7 +6,7 @@ export default ()=>(
     <div>
         <Header/>
         <BarraTitulo/>
-        <h1>Página de la calculadora</h1>
+        <h1>Calculadora</h1>
         <Calculadora/>
         
     </div>

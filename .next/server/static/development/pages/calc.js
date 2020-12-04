@@ -2075,7 +2075,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     lineNumber: 9
   },
   __self: undefined
-}, "P\xE1gina de la calculadora"), __jsx(_componentes_calculadora__WEBPACK_IMPORTED_MODULE_3__["default"], {
+}, "Calculadora"), __jsx(_componentes_calculadora__WEBPACK_IMPORTED_MODULE_3__["default"], {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 10
